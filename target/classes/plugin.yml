@@ -1,0 +1,6 @@
+name: PacketSender
+main: ca.innov8solutions.packetsender.PacketSender
+version: 1.0
+commands:
+  sendpacket:
+    description: "Command to send the packet!"
